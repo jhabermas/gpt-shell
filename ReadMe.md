@@ -1,4 +1,4 @@
-# Python Template
+# gptsh
 
 Python repository template with notebook, tests and CI.
 
