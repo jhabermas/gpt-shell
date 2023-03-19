@@ -1,6 +1,10 @@
 # gptsh
 
-Python repository template with notebook, tests and CI.
+cmd - regular commands
+.cmd - config commands, e.g. .help
+!cmd - GTP commands
+?cmd - GPT questions
+^prompt - image commands
 
 ## Build
 
